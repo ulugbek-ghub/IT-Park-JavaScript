@@ -87,7 +87,7 @@ window.addEventListener('DOMContentLoaded', () => {
     // }, 10)
 
 
-    const endDate = new Date('2026-02-14T00:00:00').getTime();
+    const endDate = new Date('2026-02-01T00:00:00').getTime();
 
     setInterval(() => {
         const now = new Date().getTime();
